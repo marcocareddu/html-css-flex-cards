@@ -48,11 +48,13 @@ h1 {
     color: #fff;
     background-color: var(--card-bgc);
     margin: 10px;
+    border-radius: 10px;
 }
 
 div > img {
     height: 100px;
     margin-right: 10px;
+    border-radius: 10px;
 }
 
 .card-info {
